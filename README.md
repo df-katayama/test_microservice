@@ -1,0 +1,2 @@
+# test_microservice
+マイクロサービスの自動UT実行検証用
